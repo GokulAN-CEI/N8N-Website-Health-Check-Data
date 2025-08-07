@@ -13,10 +13,11 @@
     },
     {
         "endpoint_name": "Auto AimFire",
-        "endpoint_url": "https://autoaimfire.ceiamerica.com/login"
+        "endpoint_url": "http://autoaimfire.ceiamerica.com/login"
     },
     {
         "endpoint_name": "Aimfire",
-        "endpoint_url": "https://aimfire.ceiamerica.com"
+        "endpoint_url": "http://aimfire.ceiamerica.com"
     }
+
 ]
