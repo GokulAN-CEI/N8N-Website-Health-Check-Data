@@ -1,0 +1,22 @@
+[
+    {
+        "endpoint_name": "Amazon",
+        "endpoint_url": "https://www.amazon.in"
+    },
+    {
+        "endpoint_name": "Google",
+        "endpoint_url": "https://www.google.com"
+    },
+    {
+        "endpoint_name": "Flipkart",
+        "endpoint_url": "https://www.flipkart.com"
+    },
+    {
+        "endpoint_name": "Auto AimFire",
+        "endpoint_url": "https://autoaimfire.ceiamerica.com/login"
+    },
+    {
+        "endpoint_name": "Aimfire",
+        "endpoint_url": "https://aimfire.ceiamerica.com"
+    }
+]
